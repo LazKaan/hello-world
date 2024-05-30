@@ -1,2 +1,1 @@
-# hello-world
-Dieses Repository dient zum Üben des GitHub-Flow.
+ich heiße Kaan und bin 21 Jahre alt.
